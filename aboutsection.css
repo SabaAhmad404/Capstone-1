@@ -364,7 +364,7 @@ h1 {
 .partner-hr {
   width: 15%;
   border-radius: 4px;
-  border: 2px solid red;
+  border: 2px solid rgb(83, 6, 6);
   margin: 0 43%;
   border-color: var(--color-mid);
 }
