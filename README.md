@@ -9,7 +9,7 @@
 
 
 ## Live Demo (if available)
-Please use the following [link]() to access the website:  
+Please use the following [link]( https://sabaahmad786.github.io/Capstone-1/) to access the website:  
 ## Getting Started
 
 To get a local copy up and run git clone git@github.com:SabaAhmad786/final-portofolio and follow these simple steps.
@@ -43,5 +43,3 @@ The following useful resources were used to complete this project.
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
