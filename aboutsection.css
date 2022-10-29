@@ -72,6 +72,16 @@ h1 {
   padding-right: 5%;
 }
 
+h5 {
+  color: var(--color-mid);
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 2rem;
+  font-style: normal;
+  padding-right: 5%;
+}
+
 .title-hr {
   width: 20%;
   border-radius: 4px;
@@ -468,6 +478,16 @@ h1 {
   }
 
   h1 {
+    color: var(--color-mid);
+    font-family: 'Lato', sans-serif;
+    font-weight: 1000;
+    font-size: 4rem;
+    line-height: 4rem;
+    font-style: normal;
+    margin-left: 31%;
+  }
+
+  h5 {
     color: var(--color-mid);
     font-family: 'Lato', sans-serif;
     font-weight: 1000;

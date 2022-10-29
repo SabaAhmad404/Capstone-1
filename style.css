@@ -191,8 +191,6 @@ hr {
   flex-direction: column;
   align-items: center;
   gap: 17px;
-
-  /* margin: 9% 10% 8% 10%; */
 }
 
 .seemore {
@@ -476,6 +474,24 @@ hr {
   }
 
   h1 {
+    color: var(--color-mid);
+    font-family: 'Lato', sans-serif;
+    font-weight: 1000;
+    font-size: 3rem;
+    line-height: 3rem;
+    font-style: normal;
+  }
+
+  h5 {
+    color: var(--color-mid);
+    font-family: 'Lato', sans-serif;
+    font-weight: 1000;
+    font-size: 3rem;
+    line-height: 3rem;
+    font-style: normal;
+  }
+
+  h6 {
     color: var(--color-mid);
     font-family: 'Lato', sans-serif;
     font-weight: 1000;
