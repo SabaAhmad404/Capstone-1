@@ -12,7 +12,7 @@
 Please use the following [link]() to access the website:  
 ## Getting Started
 
-To get a local copy up and run git clone git@github.com:SabaAhmad786/final-portofolio and follow these simple steps.
+To get a local copy up and run git clone git@github.com:SabaAhmad786/Capstone-1 and follow these simple steps.
 
 ### Open files in visual studio code
 
