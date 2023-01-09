@@ -22,7 +22,7 @@ To get a local copy up and run git clone git@github.com:SabaAhmad786/Capstone-1 
 
 👤 **Saba Ahmad**
 
-- GitHub: [@SabaAhmad786](https://github.com/SabaAhmad786)
+- GitHub: [@SabaAhmad786](https://github.com/SabaAhmad404)
 - LinkedIn: [@saba ahmad](https://www.linkedin.com/in/saba-ahmad-97b938244/)
 
 ## 🤝 Contributing
