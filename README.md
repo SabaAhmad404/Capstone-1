@@ -9,7 +9,7 @@
 
 
 ## Live Demo (if available)
-Please use the following [link]( https://sabaahmad786.github.io/Capstone-1/) and here is my Loom video [Loom video](https://www.loom.com/share/9b99b54797a4493eb7e36fb722374010) to access the website:  
+Please use the following [link]( https://sabaahmad404.github.io/Capstone-1/) and here is my Loom video [Loom video](https://www.loom.com/share/9b99b54797a4493eb7e36fb722374010) to access the website:  
 ## Getting Started
 
 To get a local copy up and run git clone git@github.com:SabaAhmad786/Capstone-1 and follow these simple steps.
