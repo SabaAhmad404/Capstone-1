@@ -47,6 +47,12 @@ header {
   display: none;
 }
 
+.hamburg {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+
 #home-page {
   background-image: url(./images/about-bg-mobile.png);
   background-repeat: no-repeat;
@@ -72,23 +78,19 @@ h1 {
   padding-right: 5%;
 }
 
-h5 {
-  color: var(--color-mid);
-  font-family: 'Lato', sans-serif;
-  font-weight: 700;
-  font-size: 2rem;
-  line-height: 2rem;
-  font-style: normal;
-  padding-right: 5%;
-}
-
 .title-hr {
   width: 20%;
   border-radius: 4px;
   border: 2px solid red;
   margin: 0 40%;
+  text-align: center;
   margin-top: 2px;
   border-color: var(--color-mid);
+}
+
+.about-hero-title {
+  text-align: center;
+  margin: 10px 21px;
 }
 
 .some-more {
@@ -108,7 +110,7 @@ h5 {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   line-height: 2rem;
-  padding-top: 6%;
+  padding: 30px;
 }
 
 .description {
@@ -121,7 +123,9 @@ h5 {
   font-weight: 300;
   line-height: 1rem;
   margin-right: 3%;
+  margin-top: 20px;
   width: 100%;
+  padding-bottom: 35px;
 }
 
 .Date {
@@ -155,7 +159,7 @@ h5 {
   justify-content: center;
   align-items: center;
   gap: 8%;
-  padding-top: 3%;
+  padding: 5%;
 }
 
 .contact {
@@ -179,16 +183,14 @@ h5 {
   text-align: center;
   padding-top: 7%;
   padding-bottom: 15px;
-  margin-left: 8%;
 }
 
 .summit-hr {
   width: 10%;
   border-radius: 4px;
   border: 1px solid red;
-  margin: 0 47%;
-  margin-top: 1px;
   border-color: var(--color-mid);
+  margin: 0 auto;
 }
 
 .logo-para {
@@ -375,7 +377,7 @@ h5 {
   width: 15%;
   border-radius: 4px;
   border: 2px solid rgb(83, 6, 6);
-  margin: 0 43%;
+  margin: 0 auto;
   border-color: var(--color-mid);
 }
 
@@ -432,6 +434,11 @@ h5 {
     height: 5rem;
     background-color: #fff;
     line-height: 2.8rem;
+  }
+
+  .about-hero-title {
+    width: 650px;
+    margin: 0 auto;
   }
 
   .bottom-menu {
@@ -501,8 +508,8 @@ h5 {
     width: 20%;
     border-radius: 4px;
     border: 2px solid red;
-    margin: 0 40%;
-    margin-top: 2px;
+    margin: 0 auto;
+    margin: 29px auto;
     border-color: var(--color-mid);
   }
 
@@ -602,16 +609,15 @@ h5 {
     text-align: center;
     padding-top: 7%;
     padding-bottom: 15px;
-    margin-left: 10%;
+    margin: 0 auto;
   }
 
   .summit-hr {
     width: 10%;
     border-radius: 4px;
     border: 1px solid red;
-    margin: 0 47%;
-    margin-top: 1px;
     border-color: var(--color-mid);
+    margin: 0 auto;
   }
 
   .logo-para {
@@ -627,9 +633,12 @@ h5 {
   }
 
   .logoImage-summit {
-    padding-left: 29%;
+    padding-left: 0;
     padding-top: 3%;
     padding-bottom: 5%;
+    width: 570px;
+    margin: 0 auto;
+    text-align: center;
   }
 
   .logo-design {
@@ -660,7 +669,7 @@ h5 {
     width: 10%;
     border-radius: 4px;
     border: 1px solid red;
-    margin: 0 47%;
+    margin: 0 auto;
     border-color: var(--color-mid);
   }
 
