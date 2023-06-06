@@ -47,7 +47,7 @@ header {
   position: absolute;
   top: 10px;
   left: 10px;
-  width:30px;
+  width: 30px;
   height: 30px;
 }
 
@@ -90,7 +90,7 @@ h1 {
 }
 
 .hero-title {
-  width:250px;
+  width: 250px;
 }
 
 .event-place {
@@ -143,7 +143,6 @@ h1 {
   font-style: normal;
   font-weight: 600;
   font-family: 'Lato', sans-serif;
-  text-align: center;
   padding-top: 15px;
   padding-bottom: 15px;
   text-align: center;
@@ -170,7 +169,7 @@ h1 {
 
 .pro-cards img {
   margin-left: 5px;
-   width: 20%;
+  width: 20%;
 }
 
 .pro-cards h4 {
@@ -489,7 +488,7 @@ h1 {
   }
 
   .hero-title {
-    width:430px;
+    width: 430px;
   }
 
   h5 {
@@ -591,8 +590,8 @@ h1 {
     font-family: 'Lato', sans-serif;
     font-weight: 500;
     line-height: 17px;
-    width:auto;
-    padding:21px;
+    width: auto;
+    padding: 21px;
   }
 
   .grid-container {
